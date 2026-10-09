@@ -2,6 +2,7 @@
 
 An end-to-end customer churn analysis on a telecom dataset: cleaning messy raw data, then building an interactive **Power BI** dashboard to identify who churns, when, and why.
 
+<img width="1387" height="782" alt="image" src="https://github.com/user-attachments/assets/93ea026a-a144-44f3-ae53-ad6112e1f294" />
 
 
 ---
