@@ -3,6 +3,7 @@ Customer Churn Analysis Dashboard
 An end-to-end customer churn analysis on a telecom dataset: cleaning messy raw data, then building an interactive Power BI dashboard to identify who churns, when, and why.
 
 Table of Contents
+
 Project Overview
 Dataset
 Data Cleaning
